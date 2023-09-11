@@ -1,0 +1,11 @@
+keras
+tensorboard
+tensorflow
+tensorflow-estimator
+tensorflow-intel
+tensorflow-io-gcs-filesystem
+transformers
+matplotlib
+sklearn
+pandas
+numpy
